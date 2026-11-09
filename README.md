@@ -179,12 +179,6 @@ It also achieved a lower MAE and RMSE compared with Random Forest, indicating sl
 - Deploy the trained Machine Learning model.
 - Provide real-time restaurant rating predictions.
 
-## 👨‍💻 Author
-
-**Suraj Kapare**
-
-Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
-
 ## ⭐ Conclusion
 
 This project demonstrates the complete Machine Learning workflow, from data preprocessing and exploratory data analysis to regression model development and evaluation.
@@ -193,3 +187,8 @@ The project helped develop practical experience in Python, data analysis, data v
 
 If you find this project useful, feel free to ⭐ the repository!
 
+## 👨‍💻 Author
+
+**Suraj Kapare**
+
+Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
