@@ -1,4 +1,4 @@
-# Restaurant Analysis & Performance | EDA (Python) + SQL
+# Restaurant Analysis & Performance | EDA (Python) + SQL + ML
 
 End-to-end analysis of **9,551 restaurants across 141 cities and 15 countries**: data cleaning and exploratory analysis in Python, business questions answered in MySQL.
 
